@@ -14,7 +14,7 @@
   
   <h1 align="center"> Tecnologias </h1>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg)"/>
+  <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg"/>
   <img align="center" alt="angularjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
