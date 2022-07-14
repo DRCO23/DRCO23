@@ -18,7 +18,7 @@
   <img align="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="typescript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-  <img align="center" alt="npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="npm" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
   <img align="center" alt="c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
