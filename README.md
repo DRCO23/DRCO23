@@ -18,6 +18,6 @@
   <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="git" height="40" width="50" src="http://www.w3.org/2000/svg" />
+  <img align="center" alt="arduino" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="kali" height="40" width="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kali-linux.svg" />
 </div><br/>
